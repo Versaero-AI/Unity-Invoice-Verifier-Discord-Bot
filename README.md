@@ -13,5 +13,5 @@ A Discord bot designed to verify Unity Asset Store invoices and assign roles to 
 ## Setup
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-repo/inbora-verifier-bot.git
-   cd inbora-verifier-bot
+   git clone https://github.com/Versaero-AI/Unity-Invoice-Verifier-Discord-Bot
+   cd Unity-Invoice-Verifier-Discord-Bot
